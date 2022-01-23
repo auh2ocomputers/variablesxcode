@@ -59,6 +59,9 @@ print(myOptional)
 myIUOOptional=5
 print(myIUOOptional!)
 myOptional=3
+//says Optional in output
+print(myOptional)
+//unwraps the variable and just gives me the Integer
 print(myOptional!)
 
 
